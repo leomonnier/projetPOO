@@ -113,9 +113,9 @@ class Prisme:
         return self  
         
 
-un_prisme = Prisme()     
-un_prisme.run(["https://math.univ-angers.fr","https://math.univ-angers.fr/documents/exercices_terminale_septembre_2014.pdf"])      # lance le traitement sur des ressources web référencées dans un_fichier
-un_prisme.show()
+#un_prisme = Prisme()     
+#un_prisme.run(["https://math.univ-angers.fr","https://math.univ-angers.fr/documents/exercices_terminale_septembre_2014.pdf"])      # lance le traitement sur des ressources web référencées dans un_fichier
+#un_prisme.show()
     
 
         
